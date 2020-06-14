@@ -1,5 +1,7 @@
 # Work Day Scheduler
 
+Link to the Web Applicaiton: https://rahme.github.io/work-schedule/
+
 ## Table of Concents
 * [Description](#Description)
 * [Usage](#Usage)
